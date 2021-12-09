@@ -17,7 +17,7 @@
   <properties>
     <jersey2.version>2.19</jersey2.version>
     <guice.version>4.1.0</guice.version>
-    <jackson.version>2.9.9</jackson.version>
+    <jackson.version>2.9.10.8</jackson.version>
   </properties>
 
   <dependencies>
